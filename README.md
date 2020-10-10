@@ -1,7 +1,5 @@
 ### Hi there, I'm Paul Rodriguez 👋
 
-- I build front-end components, apps and web apps in JavaScript, Node.js & ReactJS
-- Also ❤️ to code in front of audiences too!
+- I build full stack apps, web pages and front-end components in JavaScript, Node.js and React.js along with content-driven design and agency experience.
+- I also love presenting, public speaking and live coding.
 - Web Developer [Dish Network](https://www.dish.com)
-
-![Alt Text](https://media.giphy.com/media/ZB35BkFB7TuYRiuFol/giphy.gif)

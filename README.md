@@ -13,9 +13,12 @@
 <img align="left" alt="React" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/reactjs_prodriguez_dev.svg" />
 <img align="left" alt="npm" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/npm_prodriguez_dev.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/nodejs_prodriguez_dev.svg" />
-<img align="left" alt="GreenSock" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/greensock_prodriguez_dev.svg" />
+<img align="left" alt="GreenSock" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/greensock_color_prodriguez_dev.svg" />
 <img align="left" alt="Sass" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/sass_prodriguez_dev.svg" />
-<img align="left" alt="bootstap" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/bootstrap_prodriguez_dev.svg" />
+<img align="left" alt="bootstap" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/bootstrap_prodriguez_dev.svg" /><br/>
+
+### Tools:<br/>
+
 <img align="left" alt="AWS" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/aws_prodriguez_dev.svg" />
 <img align="left" alt="firebase" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/firebase_prodriguez_dev.svg" />
 <img align="left" alt="Git" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/git_prodriguez_dev.svg" />

@@ -10,6 +10,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/html5_prodriguez_dev_2.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/css3_prodriguez_dev_2.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/javascript_prodriguez_dev.svg" />
+<img align="left" alt="jQuery" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/jquery_prodriguez_dev.svg" />
 <img align="left" alt="React" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/reactjs_prodriguez_dev.svg" />
 <img align="left" alt="npm" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/npm_prodriguez_dev.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/nodejs_prodriguez_dev.svg" />

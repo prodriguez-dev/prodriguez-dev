@@ -16,7 +16,8 @@
 <img align="left" alt="Sass" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/sass_prodriguez_dev.svg" />
 <img align="left" alt="bootstap" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/bootstrap_prodriguez_dev.svg" />
 
-#### Tools:
+
+### Tools:
 
 <img align="left" alt="AWS" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/aws_prodriguez_dev.svg" />
 <img align="left" alt="firebase" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/firebase_prodriguez_dev.svg" />
@@ -24,7 +25,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/github_prodriguez_dev.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/vs_code_prodriguez_dev.svg" />
 
-##### Design Programs:
+
+#### Design Programs:
 
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/adobe_photoshop_prodriguez_dev.svg" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/adobe_illustrator_prodriguez_dev.svg" />

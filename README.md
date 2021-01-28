@@ -5,7 +5,7 @@
 - Lead Front End Developer @[Dish Network](https://www.dish.com)
 
 
-### Languages & Tools:<br/>
+### Languages:<br/>
 
 <img align="left" alt="HTML5" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/html5_prodriguez_dev.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/css3_prodriguez_dev.svg" />

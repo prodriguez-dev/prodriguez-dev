@@ -19,7 +19,7 @@
 <img align="left" alt="Sass" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/sass_prodriguez_dev.svg" />
 <img align="left" alt="bootstap" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/bootstrap_prodriguez_dev.svg" /><br/>
 
-### Tools and Design Programs:<br/>
+### Tools:<br/>
 
 <img align="left" alt="AWS" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/aws_prodriguez_dev.svg" />
 <img align="left" alt="firebase" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/firebase_prodriguez_dev.svg" />

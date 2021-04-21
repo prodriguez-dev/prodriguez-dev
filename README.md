@@ -2,7 +2,7 @@
 
 - I build full stack apps, web pages and front-end components in JavaScript, Node.js and React.js along with creative design and agency experience.
 - I also love public speaking, leading presentations, live coding y hablo español.
-- Lead Front End Developer @[Dish Network](https://www.dish.com)
+- Sr. UI/UX Developer @[BubbleUp](https://www.bubbleup.com)
 
 
 ### Languages:<br/>

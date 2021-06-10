@@ -1,7 +1,6 @@
 ### Hi there, I'm Paul Rodriguez 👋
 
-- I build full stack apps, web pages and front-end components in JavaScript, Node.js and React.js along with creative design and agency experience.
-- I also love public speaking, leading presentations, live coding y hablo español.
+- Expertise in building Single Page Applications, Web Development, Frontend UI/UX components in JavaScript, Node.js, React.js, SCSS, Flexbox and Grid along with creative design and agency experience.
 - Sr. UI/UX Developer @[BubbleUp](https://www.bubbleup.com)
 
 

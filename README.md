@@ -1,7 +1,7 @@
 ### Hi there, I'm Paul Rodriguez 👋
 
 - Expertise in building Single Page Applications, Web Development, Frontend UI/UX components in JavaScript, Node.js, React.js, SCSS, Flexbox and Grid along with creative design and agency experience.
-- Sr. UI/UX Developer @[BubbleUp](https://www.bubbleup.com)
+- Front-end Developer @[GreatJakes](https://www.greatjakes.com)
 
 
 ### Languages:<br/>

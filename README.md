@@ -9,7 +9,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/html5_prodriguez_dev_2.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/css3_prodriguez_dev_2.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/javascript_prodriguez_dev.svg" />
-<img align="left" alt="jQuery" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/jquery_prodriguez_dev.svg" />
 <img align="left" alt="React" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/reactjs_prodriguez_dev.svg" />
 <img align="left" alt="npm" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/npm_prodriguez_dev.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/nodejs_prodriguez_dev.svg" />
@@ -24,7 +23,6 @@
 <img align="left" alt="firebase" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/firebase_prodriguez_dev.svg" />
 <img align="left" alt="Git" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/git_prodriguez_dev.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/github_prodriguez_dev.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/vs_code_prodriguez_dev.svg" />
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/adobe_photoshop_prodriguez_dev.svg" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/adobe_illustrator_prodriguez_dev.svg" />
 <img align="left" alt="Adobe XD" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/adobe_xd_prodriguez_dev.svg" />

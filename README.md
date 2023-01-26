@@ -1,8 +1,8 @@
-### Hi there, I'm Paul Rodriguez 👋
-
-- Expertise in building Single Page Applications, Web Development, Frontend UI/UX components in JavaScript, Node.js, React.js, SCSS, Flexbox and Grid along with creative design and agency experience.
+### Hello, I'm Paul Rodriguez 👋
 - Front-end Developer @[GreatJakes](https://www.greatjakes.com)
-
+- I build frontend UI/UX components in JavaScript, Node.js, React.js, SCSS, Flexbox and Grid.
+- Expertise in building Single Page Applications and Modern Web Development.
+- Creative design and agency experience.
 
 ### Languages:<br/>
 

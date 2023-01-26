@@ -22,5 +22,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/github_prodriguez_dev.svg" />
 <img align="left" alt="InVision" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/invision_prodriguez_dev.svg" />
 <img align="left" alt="Figma" width="26px" src="https://irp.cdn-website.com/f592cd80/dms3rep/multi/figma_prodriguez_dev.svg" />
+<img align="left" alt="Sketch" width="26px" src="https://irp.cdn-website.com/f592cd80/dms3rep/multi/sketch_prodriguez_dev.svg" />
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/adobe_photoshop_prodriguez_dev.svg" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/adobe_illustrator_prodriguez_dev.svg" />

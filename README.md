@@ -11,8 +11,6 @@
 - Tech Solutions: Solution Architecture, Strategic Communication, Client Consulting
 - Industry Experience: Telecom, E-commerce, Legal Firms, and Creative Agencies
 
-<br/>
-
 ### Tools & Technologies:
 
 <p align="left">

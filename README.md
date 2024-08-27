@@ -19,7 +19,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://files.prodriguez.dev/icons/github/prodriguez-html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://files.prodriguez.dev/icons/github/prodriguez-css3.svg" />
 <br/>
-<img align="left" alt="Sass" width="26px" src="https://irp-cdn.multiscreensite.com/f592cd80/dms3rep/multi/sass_prodriguez_dev.svg" />
+<img align="left" alt="Sass" width="26px" src="https://files.prodriguez.dev/icons/github/prodriguez-sass.svg" />
 <img align="left" alt="AWS" width="26px" src="https://files.prodriguez.dev/icons/github/prodriguez-aws.svg" />
 <img align="left" alt="Salesforce" width="26px" src="https://files.prodriguez.dev/icons/github/prodriguez-salesforce.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://files.prodriguez.dev/icons/github/prodriguez-github.svg" />

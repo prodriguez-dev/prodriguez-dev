@@ -13,19 +13,17 @@
 
 ### Tools & Technologies:
 
-<p align="left">
-    <img alt="JavaScript" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-javascript.svg" />
-    <img alt="ReactJS" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-react.svg" />
-    <img alt="NextJS" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-next-js.svg" />
-    <img alt="TypeScript" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-typescript.svg" />
-    <img alt="Node.js" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-node-js.svg" />
-    <img alt="HTML5" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-html5.svg" />
-    <img alt="CSS3" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-css3.svg" />
-    <img alt="Sass" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-sass.svg" />
-    <img alt="AWS" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-aws.svg" />
-    <img alt="Salesforce" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-salesforce.svg" />
-    <img alt="GitHub" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-github.svg" />
-    <img alt="Figma" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-figma.svg" />
-    <img alt="Adobe Photoshop" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-adobe-photoshop.svg" />
-    <img alt="Adobe Illustrator" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-adobe-illustrator.svg" />
-</p>
+![JavaScript](https://files.prodriguez.dev/icons/github/prodriguez-javascript.svg)
+![ReactJS](https://files.prodriguez.dev/icons/github/prodriguez-react.svg)
+![NextJS](https://files.prodriguez.dev/icons/github/prodriguez-next-js.svg)
+![TypeScript](https://files.prodriguez.dev/icons/github/prodriguez-typescript.svg)
+![Node.js](https://files.prodriguez.dev/icons/github/prodriguez-node-js.svg)
+![HTML5](https://files.prodriguez.dev/icons/github/prodriguez-html5.svg)
+![CSS3](https://files.prodriguez.dev/icons/github/prodriguez-css3.svg)
+![Sass](https://files.prodriguez.dev/icons/github/prodriguez-sass.svg)
+![AWS](https://files.prodriguez.dev/icons/github/prodriguez-aws.svg)
+![Salesforce](https://files.prodriguez.dev/icons/github/prodriguez-salesforce.svg)
+![GitHub](https://files.prodriguez.dev/icons/github/prodriguez-github.svg)
+![Figma](https://files.prodriguez.dev/icons/github/prodriguez-figma.svg)
+![Adobe Photoshop](https://files.prodriguez.dev/icons/github/prodriguez-adobe-photoshop.svg)
+![Adobe Illustrator](https://files.prodriguez.dev/icons/github/prodriguez-adobe-illustrator.svg)

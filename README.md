@@ -19,9 +19,9 @@
     <img alt="NextJS" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-next-js.svg" />
     <img alt="TypeScript" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-typescript.svg" />
     <img alt="Node.js" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-node-js.svg" />
-    <img alt="HTML5" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-html5.svg" />
-    <img alt="CSS3" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-css3.svg" />
     <img alt="Sass" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-sass.svg" />
+    <img alt="CSS3" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-css3.svg" />
+    <img alt="HTML5" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-html5.svg" />
     <img alt="AWS" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-aws.svg" />
     <img alt="Salesforce" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-salesforce.svg" />
     <img alt="GitHub" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-github.svg" />

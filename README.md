@@ -19,15 +19,16 @@ My journey from Senior Frontend Engineer to Solutions Architect was driven by a 
 ### Tools & Technologies
 
 <p align="left">
-    <!-- Using skillicons.dev for supported icons -->
+    <!-- Supported icons from skill-icons -->
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,sass,html,css,aws,github,figma,ps,ai" alt="tech stack"/>
-    <!-- Manually adding unsupported icons -->
-    <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <!-- Manually added icons -->
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="48" height="48"/>
     </a>
-    <a href="https://www.salesforce.com/" target="_blank">
+    <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="48" height="48"/>
     </a>
+    <a href="https://www.unqork.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/unqork/0045AC" alt="Unqork" width="48" height="48"/>
+    </a>
 </p>
-
-*And of course, **Unqork**!*

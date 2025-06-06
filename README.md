@@ -18,5 +18,16 @@ My journey from Senior Frontend Engineer to Solutions Architect was driven by a 
 
 ### Tools & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,sass,html,css,aws,salesforce,jira,github,figma,ps,ai&perline=8)
+<p align="left">
+    <!-- Using skillicons.dev for supported icons -->
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,sass,html,css,aws,github,figma,ps,ai" alt="tech stack"/>
+    <!-- Manually adding unsupported icons -->
+    <a href="https://www.atlassian.com/software/jira" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="48" height="48"/>
+    </a>
+    <a href="https://www.salesforce.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="48" height="48"/>
+    </a>
+</p>
+
 *And of course, **Unqork**!*

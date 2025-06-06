@@ -1,31 +1,47 @@
-### Hello, I'm Paul Rodriguez 👋
-- I architect and develop frontend solutions with React.js, TypeScript, and Redux.
-- Expertise in building modern, scalable web applications, and video streaming solutions.
-- Extensive experience in creative design, user experience, and tech consulting.
-- Passionate about bridging the gap between technology and business, enabling growth for startups and established enterprises alike.
+### Hi there! 👋 I'm Paul Rodriguez, a Solutions Architect at Auxo Solutions.
 
-### Areas of Expertise:
-- Frontend Development: React.js, TypeScript, Redux, JavaScript, SCSS, Flexbox, Responsive Design
-- Web Architecture: Single Page Applications (SPA), Headless CMS, Modular Component Design
-- Creative Design: UI/UX Design, Creative Direction, Branding, and Visual Design
-- Tech Solutions: Solution Architecture, Strategic Communication, Client Consulting
-- Industry Experience: Telecom, E-commerce, Legal Firms, and Creative Agencies
+I've always believed the best technology is built with people at its heart. After years as a Senior Frontend Engineer deep in the codebase, I realized my passion wasn't just in *building* the solution, but in *shaping* it with the client.
 
-### Tools & Technologies:
+Today, I use my hands-on engineering background to design and deliver enterprise-grade applications, translating complex business needs into technical reality on modern platforms like Unqork.
 
-<p align="left">
-    <img alt="JavaScript" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-javascript.svg" />
-    <img alt="ReactJS" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-react.svg" />
-    <img alt="NextJS" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-next-js.svg" />
-    <img alt="TypeScript" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-typescript.svg" />
-    <img alt="Node.js" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-node-js.svg" />
-    <img alt="Sass" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-sass.svg" />
-    <img alt="CSS3" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-css3.svg" />
-    <img alt="HTML5" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-html5.svg" />
-    <img alt="AWS" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-aws.svg" />
-    <img alt="Salesforce" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-salesforce.svg" />
-    <img alt="GitHub" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-github.svg" />
-    <img alt="Figma" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-figma.svg" />
-    <img alt="Adobe Photoshop" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-adobe-photoshop.svg" />
-    <img alt="Adobe Illustrator" width="48px" src="https://files.prodriguez.dev/icons/github/prodriguez-adobe-illustrator.svg" />
-</p>
+-   🌱 I’m currently focused on architecting scalable integrations and mentoring development teams on SDLC best practices.
+-   💬 Ask me about **System Design**, **Low-Code/No-Code Strategy**, or **translating executive vision into a technical roadmap**.
+-   📫 Let's Connect: [linkedin.com/in/prodriguez-dev](https://www.linkedin.com/in/prodriguez-dev)
+
+---
+
+### What I Do as a Solutions Architect
+
+I bridge the gap between client vision and technical execution. My role is a blend of architectural strategy, client collaboration, and technical leadership to deliver tailored, high-impact solutions.
+
+-   **Client Collaboration:** I work directly with stakeholders to conduct discovery, gather requirements, and document business needs using tools like LucidChart, Figma, and Jira.
+-   **Solution Delivery:** I architect, develop, and deploy full-stack enterprise applications, leading projects from conception to on-time delivery and integrating with client systems via RESTful APIs.
+-   **Technical Leadership:** I create and present technical proofs-of-concept (POCs), provide technical guidance to project teams, and enjoy mentoring colleagues through configuration reviews and knowledge sharing.
+
+---
+
+### My Skill Spectrum: From Strategy to Pixels
+
+-   **🏛️ Architecture & Strategy**
+    -   Solution Architecture & Stakeholder Management
+    -   Low-Code/No-Code Platform Strategy (Unqork)
+    -   API Design & Integration
+    -   System Design (SPAs, Headless CMS)
+    -   Software Development Life Cycle (SDLC) Best Practices
+
+-   **💻 Engineering & Implementation**
+    -   Frontend Development (React, TypeScript, Next.js)
+    -   State Management (Redux) & API Consumption
+    -   Modular Component Design & Scalable CSS (SCSS)
+
+-   **🎨 Design & User Experience**
+    -   UI/UX & Visual Design (Figma)
+    -   Creative Direction & Branding
+    -   Responsive & Accessible Interfaces
+
+---
+
+### Tools & Technologies
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,sass,html,css,aws,salesforce,jira,github,figma,ps,ai&perline=8)
+*And of course, **Unqork**!*

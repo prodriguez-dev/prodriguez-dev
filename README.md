@@ -29,6 +29,6 @@ My journey from Senior Frontend Engineer to Solutions Architect was driven by a 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="48" height="48"/>
     </a>
     <a href="https://www.unqork.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/unqork/0045AC" alt="Unqork" width="48" height="48"/>
+        <img src="https://unqork.com/wp-content/uploads/2024/09/Unqork_favicon_icon-1.png" alt="Unqork" width="48" height="48"/>
     </a>
 </p>

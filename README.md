@@ -12,7 +12,7 @@ My journey from Senior Frontend Engineer to Solutions Architect was driven by a 
 
 | Architecture & Strategy                                                                                             | Engineering & Development                                                              | Design & UX                                                              |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| • Solution Architecture<br>• Client Collaboration<br>• Requirements Gathering<br>• Low-Code Strategy (Unqork)<br>• SDLC Best Practices | • React & TypeScript<br>• Next.js & Redux<br>• API Design & Integration<br>• Modular Component Design<br>• Scalable CSS (SCSS) | • UI/UX & Visual Design<br>• Creative Direction<br>• Prototyping (Figma)<br>• Responsive Interfaces |
+| • Solution Architecture<br>• Client Collaboration<br>• Requirements Gathering<br>• Low-Code Strategy (Unqork)<br>• SDLC Best Practices | • React & React Native<br>• Next.js & Typescript<br>• API Design & Integration<br>• Modular Component Design<br>• Scalable CSS (SCSS) | • UI/UX & Visual Design<br>• Creative Direction<br>• Prototyping (Figma)<br>• Responsive Interfaces |
 
 ---
 
@@ -20,10 +20,9 @@ My journey from Senior Frontend Engineer to Solutions Architect was driven by a 
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></span></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/></span></a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48"/></span></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48"/></span></a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="48" height="48"/></span></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/></span></a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/></span></a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="48" height="48"/></span></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/></span></a>

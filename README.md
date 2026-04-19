@@ -1,18 +1,18 @@
-### Hi there! 👋 I'm Paul Rodriguez, a Solutions Architect at Auxo Solutions.
+### Hi there! 👋 I'm Paul Rodriguez, a Solutions Architect and Trusted Advisor.
 
-My journey from Senior Frontend Engineer to Solutions Architect was driven by a passion for shaping solutions *with* the client, not just for them. Today, I leverage that deep engineering background to translate complex business needs into technical reality on modern platforms like Unqork.
+[cite_start]My journey from Senior Front End Developer to Solutions Architect was driven by a passion for acting as a trusted advisor and translating complex tech stacks into clear business outcomes[cite: 64]. [cite_start]Today, I leverage over 12 years of experience to design mission critical ecosystems in English and Spanish, specializing in hyperscale platforms and real time infrastructure[cite: 4, 63].
 
-- 🌱 **Focusing on:** Architecting scalable integrations & mentoring development teams.
-- 💬 **Talk to me about:** System Design, Low-Code Strategy, or bridging the gap between business and tech.
-- 📫 **Connect with me:** [linkedin.com/in/prodriguez-dev](https://www.linkedin.com/in/prodriguez-dev)
+* [cite_start]🌱 **Focusing on:** Architecting scalable cloud infrastructure, managing high stakes implementations, and mentoring engineering teams[cite: 21, 65, 66].
+* [cite_start]💬 **Talk to me about:** Cloud Native technologies, disaster recovery planning, WebRTC, or bridging the gap between business and tech[cite: 5, 66, 69].
+* 📫 **Connect with me:** [linkedin.com/in/prodriguez-dev](https://www.linkedin.com/in/prodriguez-dev)
 
 ---
 
 ### Core Competencies
 
-| Architecture & Strategy                                                                                             | Engineering & Development                                                              | Design & UX                                                              |
-| ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| • Solution Architecture<br>• Client Collaboration<br>• Requirements Gathering<br>• Low-Code Strategy (Unqork)<br>• SDLC Best Practices | • React & React Native<br>• Next.js & Typescript<br>• API Design & Integration<br>• Modular Component Design<br>• Scalable CSS (SCSS) | • UI/UX & Visual Design<br>• Creative Direction<br>• Prototyping (Figma)<br>• Responsive Interfaces |
+| Architecture & Strategy | Cloud & Infrastructure | Engineering & Development |
+| ----------------------- | ---------------------- | ------------------------- |
+| [cite_start]• Technical Discovery [cite: 5][cite_start]<br>• C Suite Communication [cite: 64][cite_start]<br>• Solution Architecture [cite: 68][cite_start]<br>• Enterprise Project Leadership [cite: 65][cite_start]<br>• Disaster Recovery [cite: 69] | [cite_start]• AWS, Azure, GCP [cite: 68][cite_start]<br>• VMware Virtualization [cite: 68][cite_start]<br>• Docker & Kubernetes [cite: 68][cite_start]<br>• WebRTC & Real Time Systems [cite: 9][cite_start]<br>• Network Security [cite: 69] | [cite_start]• React & TypeScript [cite: 10, 70][cite_start]<br>• API Design & Integration [cite: 9][cite_start]<br>• CI/CD & Agile [cite: 10, 70][cite_start]<br>• Component Architecture [cite: 94][cite_start]<br>• SQL [cite: 10, 70] |
 
 ---
 

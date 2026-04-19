@@ -2,9 +2,9 @@
 
 My journey from Senior Front End Developer to Solutions Architect was driven by  passion for acting as  trusted advisor and translating complex tech stacks into clear business outcomes. Today, I leverage over 12 years of experience to design mission critical ecosystems in English and Spanish, specializing in hyperscale platforms and real time infrastructure.
 
-* 🌱 **Focusing on:** Architecting scalable cloud infrastructure, managing high stakes implementations, and mentoring engineering teams.
-* 💬 **Talk to me about:** Cloud Native technologies, disaster recovery planning, WebRTC, or bridging the gap between business and tech.
-* 📫 **Connect with me:** [linkedin.com/in/prodriguez-dev](https://www.linkedin.com/in/prodriguez-dev)
+* **Focusing on:** Architecting scalable cloud infrastructure, managing high stakes implementations, and mentoring engineering teams.
+* **Talk to me about:** Cloud Native technologies, disaster recovery planning, WebRTC, or bridging the gap between business and tech.
+* **Connect with me:** [linkedin.com/in/prodriguez-dev](https://www.linkedin.com/in/prodriguez-dev)
 
 ---
 
